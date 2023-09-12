@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/badz-logo-trans.png" width="350" title="That's my name :)">
+  <img src="/Badz-logo-trans.png" width="350" title="That's my name :)">
 </p>
 
 # 💫 About Me:
