@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center"> -->
   <img src="/readme.gif" width="350" title="Hello!">
-</p>
+<!-- </p> -->
 
 <!-- # 💫 About Me:
 Currently working on both Personal and School Projects.<br>Open for Collaboration or any kind of Participation.<br>Willing to learn new technologies.<br>Willing to be taught. -->
