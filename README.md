@@ -1,5 +1,5 @@
 <!-- <p align="center"> -->
-  <img src="/readme.gif" width="350" title="Hello!">
+  <img src="/readme.gif" title="Hello!">
 <!-- </p> -->
 
 <!-- # 💫 About Me:
