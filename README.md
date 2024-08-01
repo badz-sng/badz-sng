@@ -3,7 +3,8 @@
 <!-- </p> -->
 
 # 💫 About Me:
-Currently working on both Personal and School Projects.<br>Open for Collaboration or any kind of Participation.<br>Willing to learn new technologies.<br>Willing to be taught.
+Currently working on both Personal and Work Projects.<br>Open for Collaboration or any kind of Participation.<br>Willing to learn new technologies.<br>Willing to be taught.
+Just Graduated!! ❤️❤️
 
 
 ## 🌐 Socials:
