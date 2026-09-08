@@ -18,7 +18,7 @@
 *Based in Apalit, Pampanga — yes, the one in Pampanga.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://emmansunga.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emmanuelsunga325)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/badz-sng)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/emmnl_sng)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/i.am.emmanuel.sunga)
 
@@ -75,7 +75,7 @@ I build and maintain large-scale systems used by hundreds of students, faculty, 
 
 | Project | Tech | What it does |
 |--------|------|--------------|
-| **[Nasaan Ba?](https://github.com/emmanuelsunga325/Nasaan-Ba)** | React Native | Tracks where you put your stuff. Yes, it was born out of frustration. |
+| **[Nasaan Ba?](https://github.com/badz-sng/Nasaan-Ba)** | React Native | Tracks where you put your stuff. Yes, it was born out of frustration. |
 | **FilePilot** | Laravel · MySQL | Document request system for a Registrar's Office. RIP manual logbooks. |
 | **Incident Report IMS** | React · Laravel · MySQL | Best in Capstone 🏆 — Dual-platform incident reporting system for public use. |
 | **Loan Management System** | Laravel · Bootstrap · MySQL | Automated ledger reports. Loan officers can now breathe. |
