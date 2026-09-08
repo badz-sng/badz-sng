@@ -97,9 +97,11 @@ I build and maintain large-scale systems used by hundreds of students, faculty, 
 
 <div align="center">
 
-![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=badz-sng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badz-sng&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badz-sng&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=badz-sng&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=badz-sng&theme=tokyonight)
+
 
 </div>
 
