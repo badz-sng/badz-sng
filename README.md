@@ -97,9 +97,9 @@ I build and maintain large-scale systems used by hundreds of students, faculty, 
 
 <div align="center">
 
-![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanuelsunga325&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=badz-sng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelsunga325&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badz-sng&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
